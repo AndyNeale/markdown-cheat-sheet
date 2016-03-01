@@ -1,2 +1,3 @@
-# markdown-cheat-sheet
-Markdown Cheat Sheet
+# Markdown Cheat Sheet
+
+Markdown cheat sheet, created in Microsoft Word 2010.
